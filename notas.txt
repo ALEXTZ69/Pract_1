@@ -1,0 +1,4 @@
+Hay 3 carpetas
+"Pract_Cal_1_js": incluye los 3 primeros puntos
+"Using_Fetch": incluye el 4to punto
+"Pract_Cal_1_ts": incluye los 2 puntos pero en typescript
